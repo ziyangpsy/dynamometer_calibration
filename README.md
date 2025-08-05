@@ -14,5 +14,5 @@ files when calling the loadlibrary function. See below.
 
 AcqKnowledge 5.0 + USB driver (these are provided with the MP160)
 
-$$ Before this function :
+$$ Before this function (API with Biopac) :
 see before the function.m
