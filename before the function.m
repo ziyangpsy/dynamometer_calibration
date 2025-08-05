@@ -1,4 +1,4 @@
-$$ Before this function :
+$$ Before “dynamometer_calibration” function :
 Par.mpLib = 'mpdev'; 
 [notfound, warnings] = loadlibrary('C:\Program Files (x86)\BIOPAC Systems, Inc\BIOPAC Hardware API 2.2 Research\x64\mpdev.dll', 'C:\Program Files (x86)\BIOPAC Systems, Inc\BIOPAC Hardware API 2.2 Research\mpdev.h'); %;% mpdev.dll/mpdev.h
 % API from biopac
